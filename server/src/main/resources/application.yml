@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: rsocket-server
+  rsocket:
+    server:
+      port: 7000
